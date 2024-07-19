@@ -8,5 +8,4 @@ Consists of 87K RGB images of healthy and diseased crop leaves
 Categorized into 38 different classes and 14 different plants
 Divided into 80:20 ratio of traning and validation data
 Source: Kaggle
-
-![ML_Innovative](https://github.com/user-attachments/assets/a29c263f-4098-4d8a-ad3a-1d9004d0d9f7)
+![ML_Innovative drawio (1)](https://github.com/user-attachments/assets/763f55ae-a1e0-46b1-bb70-f912d9f95290)
