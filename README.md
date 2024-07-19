@@ -9,3 +9,4 @@ Categorized into 38 different classes and 14 different plants
 Divided into 80:20 ratio of traning and validation data
 Source: Kaggle
 
+![ML_Innovative](https://github.com/user-attachments/assets/a29c263f-4098-4d8a-ad3a-1d9004d0d9f7)
